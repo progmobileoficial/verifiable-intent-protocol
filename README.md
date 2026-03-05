@@ -1,5 +1,7 @@
 # Verifiable Intent Protocol (VIP)
 
+![VIP Architecture](assets/vip_architecture.png)
+
 ## O Selo de Qualidade do Futuro para Códigos e IA
 
 Bem-vindo ao **Verifiable Intent Protocol (VIP)**, uma proposta revolucionária para estabelecer um novo padrão global de confiança e segurança no desenvolvimento de software. Em uma era onde a Inteligência Artificial gera código e a complexidade dos sistemas cresce exponencialmente, o VIP oferece uma solução matemática e criptograficamente verificável para garantir que qualquer software — seja ele um contrato inteligente, um microserviço ou um sistema operacional — execute **exatamente o que foi especificado**, sem comportamentos ocultos, efeitos colaterais indesejados ou vulnerabilidades.
