@@ -1,0 +1,3 @@
+# O Protocolo VIP foi desenvolvido para ser universal e autocontido.
+# Não há dependências externas necessárias para rodar a implementação de referência.
+# Requisito: Python 3.8 ou superior.
