@@ -2,6 +2,11 @@
 
 ![VIP Architecture](assets/vip_architecture.png)
 
+[![GitHub license](https://img.shields.io/github/license/leoregiesdev/verifiable-intent-protocol)](https://github.com/leoregiesdev/verifiable-intent-protocol/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/leoregiesdev/verifiable-intent-protocol)](https://github.com/leoregiesdev/verifiable-intent-protocol/stargazers)
+[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
+
+
 ## O Selo de Qualidade do Futuro para Códigos e IA
 
 Bem-vindo ao **Verifiable Intent Protocol (VIP)**, uma proposta para estabelecer um novo padrão global de confiança e segurança no desenvolvimento de software. O VIP garante que qualquer software — seja ele um microserviço ou módulo Python — execute **exatamente o que foi especificado**, sem comportamentos ocultos ou vulnerabilidades.
